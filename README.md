@@ -19,9 +19,9 @@ This guide is aligned to the Microsoft partner motion and uses the SMB security 
 
 ## What is in this repo
 
-- [Sales readiness](./docs/Sales%20readinss.md)
+- [Sales readiness](./docs/Sales%20readiness.md)
 - [Tech readiness and deployment guides](./docs/Tech%20readiness%20and%20deplyment%20guides.md)
-- [Partner Playbook and Learning materials](./docs/Learning%20materials.md)
+- [Partner Playbook and Learning materials](./docs/Partner%Playbook%and%Learning%materials.md)
 - [Available demos](./docs/Avaliable%20demos.md)
 
 
