@@ -25,3 +25,18 @@ This guide is aligned to the Microsoft partner motion and uses the SMB security 
 -Learning materials
 - Demo
 
+## Website view
+
+This repository now includes a website entry point at `index.html`.
+
+- Open `index.html` locally to browse the guide in a web layout.
+- The site reads markdown files directly from `docs/` and renders them in the browser.
+
+### Publish with GitHub Pages
+
+1. Go to your repository settings on GitHub.
+2. Open **Pages**.
+3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+4. Select the `main` branch and `/ (root)` folder.
+5. Save and wait for GitHub Pages to publish.
+
