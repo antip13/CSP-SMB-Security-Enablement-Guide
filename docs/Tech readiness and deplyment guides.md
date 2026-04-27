@@ -15,9 +15,8 @@
 
 [Saas Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FSaas%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf)
 
-
-
-
+---
+---
 [Microsoft Zero Trust Assessment Tool](https://microsoft.github.io/zerotrustassessment/) 
 - The assessment produces a clear, prioritized report highlighting gaps, risk areas, and recommended actions aligned to Microsoft security best practice and Zero Trust principles. 
 
