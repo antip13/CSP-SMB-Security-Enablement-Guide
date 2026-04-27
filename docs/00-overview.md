@@ -1,4 +1,4 @@
-# 00 - Overview
+# Overview
 
 ## Purpose
 
@@ -26,14 +26,7 @@ Build a repeatable CSP motion to help SMB customers improve security posture usi
 - Technical architect: validates design, deployment, and security baseline.
 - Customer success manager: drives user adoption and measurable outcomes.
 
-## Cadence
 
-- Weekly: pipeline and scenario review
-- Bi-weekly: proposal quality review
-- Monthly: adoption outcomes and KPI trends
-- Quarterly: offer refresh and content update
-
-## External reference hub
 
 Use this as the official source for updated partner-ready assets and announcements:
 

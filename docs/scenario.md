@@ -1,4 +1,4 @@
-# 03 - Scenario Playbook
+# Scenario Playbook and Offer packaging
 
 ## How to use this playbook
 
