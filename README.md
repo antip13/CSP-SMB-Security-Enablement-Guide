@@ -8,7 +8,7 @@ A practical, field-ready repository for Microsoft CSP resellers to:
 
 This guide is aligned to the Microsoft partner motion and uses the SMB security growth hub as a reference point:
 
-- https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/
+- [SMB Security Growth Hub](https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/)
 
 ## Who this is for
 
@@ -19,24 +19,9 @@ This guide is aligned to the Microsoft partner motion and uses the SMB security 
 
 ## What is in this repo
 
-- Sales readiness framework 
-- Tech readiness framework
-- Scenarious
--Learning materials
-- Demo
+- Sales readiness 
+- Tech readiness and deployment guides
+- Learning materials and playbooks
+- Available demos
 
-## Website view
-
-This repository now includes a website entry point at `index.html`.
-
-- Open `index.html` locally to browse the guide in a web layout.
-- The site reads markdown files directly from `docs/` and renders them in the browser.
-
-### Publish with GitHub Pages
-
-1. Go to your repository settings on GitHub.
-2. Open **Pages**.
-3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)` folder.
-5. Save and wait for GitHub Pages to publish.
 
