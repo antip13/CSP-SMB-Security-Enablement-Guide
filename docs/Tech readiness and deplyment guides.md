@@ -1,29 +1,25 @@
 # Tech Readiness
 
-## Offer design principles
+## Deployment Guides 
 
-- Start with customer risk and operational outcome, not licensing detail.
-- Keep package names simple and outcome-oriented.
-- Define what is included, excluded, and optional add-ons.
-- Map each package to a deployment and adoption commitment.
+### Click to download materials:
+[Data Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FData%20Security%20Deployment%20Guide%20for%20Small%20Business.pptx)
 
-Best for SMBs starting formal security modernization.
+[Device Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FDevice%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf)
+
+[Identity Protection Deployment Guide for Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FIdentity%20Protection%20Deployment%20Guide%20for%20Small%20Business.pdf)
+
+[Email & App + Collaboration Protection Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FEmail%2C%20App%20and%20Collaboration%20Protection%20Deployment%20Guide%20for%20Small%20Business.pdf)
+
+[Device Management Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FDevice%20Management%20Deployment%20Guide%20for%20Small%20Business.pdf)
+
+[Saas Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FSaas%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf)
 
 
-- Security baseline assessment
-- Identity and endpoint hardening quick wins
-- Priority policy configuration
-- Admin enablement session
 
 
-Best for SMBs extending from core M365 management to stronger protection.
-
-Includes:
-
-- Defender and Purview scenario mapping
-- Pilot deployment for selected users/workloads
-- Incident and alert workflow setup
-- End-user security behavior coaching
+[Microsoft Zero Trust Assessment Tool](https://microsoft.github.io/zerotrustassessment/) 
+- The assessment produces a clear, prioritized report highlighting gaps, risk areas, and recommended actions aligned to Microsoft security best practice and Zero Trust principles. 
 
 
 
