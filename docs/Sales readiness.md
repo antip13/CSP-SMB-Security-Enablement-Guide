@@ -32,7 +32,19 @@ For CSP partner sellers, pre-sales, and partner marketing teams working SMB secu
 
 ---
 
-## 4. Defender Suite for Business Premium — customer pitch
+## 4. Business Premium licensing & SKU reference
+
+| Asset title | Type | Link |
+|------------|------|------|
+| SMB Security SKUs — Customer Order Form Template (OFT) | Customer-facing order template | <a href="https://aka.ms/SMB-SKUs-CustomerOFT" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Purview Suite for Business Premium — Promo Readiness Guide | Promo guidance | <a href="https://aka.ms/PromoReadinessGuide" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Introducing new security and compliance add-ons for Microsoft 365 Business Premium | Tech Community blog (launch announcement) | <a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/introducing-new-security-and-compliance-add-ons-for-microsoft-365-business-premi/4449297" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Partner Center — official SKU announcements | Partner Center reference | <a href="https://learn.microsoft.com/en-us/partner-center/announcements/" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Global Promo Readiness Guide (operations) | Operations reference | <a href="https://partner.microsoft.com/en-GB/resources/detail/operations-promo-guide-pdf" target="_blank" rel="noopener noreferrer">Open asset</a> |
+
+---
+
+## 5. Defender Suite for Business Premium — customer pitch
 
 | Asset title | Scenario | Link |
 |------------|----------|------|
@@ -40,7 +52,7 @@ For CSP partner sellers, pre-sales, and partner marketing teams working SMB secu
 
 ---
 
-## 5. Purview Suite for Business Premium — customer pitch
+## 6. Purview Suite for Business Premium — customer pitch
 
 | Asset title | Scenario | Link |
 |------------|----------|------|
@@ -48,10 +60,39 @@ For CSP partner sellers, pre-sales, and partner marketing teams working SMB secu
 
 ---
 
-## 6. Next step: Immersion Briefings
+## 7. Partner incentives & programs (MCI FY26)
 
-> **New to selling Microsoft Security to SMB?** Start here. Immersion Briefings are scenario-based sessions you can run with your customers to demonstrate Threat Protection and Data Security in a live environment — the fastest way to move from learning the pitch to using it in front of a prospect.
+
+| Asset title | Type | Link |
+|------------|------|------|
+| Microsoft Commercial Incentives — overview | Partner Center program page | <a href="https://partner.microsoft.com/en-us/partnership/partner-incentives/microsoft-commercial-incentives#tab-3" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Microsoft Commercial Partner Incentives Guide | Full incentives guide | <a href="https://incentiveguide.partner.microsoft.com/en-US" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Partner Incentives — site entry point | Partner Center | <a href="https://aka.ms/partnerincentives" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| MCI Workshops — Modern Work & Security Build-Intent Workshops | Workshop catalog & POE requirements | <a href="https://partner.microsoft.com/en-us/partnership/partner-incentives/modern-work-and-security-build-intent-workshops" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| CSP Deployment & Adoption Accelerator for ME3 / ME5 — full kit | Deployment kit (ZIP) | <a href="https://cloudpartners.transform.microsoft.com/download?assetname=assets/CSP-Deployment-Adoption-Accelerator-for-ME3-ME5-Kit-v2412.zip&download=1" target="_blank" rel="noopener noreferrer">Download kit</a> |
+| CSP Deployment Accelerator — Mini Suites (ME5 Security / Compliance) | Program page | <a href="https://aka.ms/CSPDeploymentAcceleratorMiniSuites/Page" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Microsoft Partner Investments — Community Calls (FY26) | Live program briefings | <a href="https://info.microsoft.com/AM--NoGEP-CNTNTO-FY26-10Oct-22-Microsoft-Partner-Investments-Community-Calls-SREVM78562_Catalog-Display-Page.html?wt.mc_id=y3rwfv5n24" target="_blank" rel="noopener noreferrer">Register</a> |
+
+---
+
+## 8. Next step: Immersion Briefings
+
+> **New to selling Microsoft Security to SMB?** Start here. Immersion Briefings are 90-minute, partner-led, customer-facing sessions that demonstrate Threat Protection and Data Security in a live environment — the fastest way to move from learning the pitch to using it in front of a prospect. Eligible for partner payout via MCI (see §7).
 
 | Asset title | Scenario | Link |
 |------------|----------|------|
-| Advanced Security for Business Premium – Immersion Briefings (Threat Protection + Data Security) | Scenario-based briefing | <a href="http://aka.ms/security-immersion-briefings" target="_blank" rel="noopener noreferrer">Register</a> |
+| Advanced Security for Business Premium – Immersion Briefings (registration & program overview) | Scenario-based briefing | <a href="http://aka.ms/security-immersion-briefings" target="_blank" rel="noopener noreferrer">Register</a> |
+| Threat Protection — Immersion Briefing page | Threat protection | <a href="https://aka.ms/ThreatProtectionImmersionBriefings/Page" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Data Security — Immersion Briefing page | Data security & compliance | <a href="https://aka.ms/DataSecurityImmersionBriefings/Page" target="_blank" rel="noopener noreferrer">Open asset</a> |
+
+---
+
+## 9. Envisioning Workshops
+
+> **A deeper customer engagement than an Immersion Briefing.** Multi-day, deployment-funded workshops that move a qualified opportunity from interest to architectural plan. Funded by the Cloud Security Envisioning Workshop incentive (up to $6.5K per engagement — see §7).
+
+| Asset title | Scenario | Link |
+|------------|----------|------|
+| Threat Protection — Envisioning Workshop | Threat protection | <a href="https://aka.ms/ThreatProtectionEnvisioningWorkshop/Page" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Data Security — Envisioning Workshop | Data security & compliance | <a href="https://aka.ms/DataSecurityEnvisioningWorkshop/Page" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Modern SecOps — Envisioning Workshop | SecOps / SIEM-XDR | <a href="https://aka.ms/ModernSecOpsEnvisioningWorkshop/Page" target="_blank" rel="noopener noreferrer">Open asset</a> |
