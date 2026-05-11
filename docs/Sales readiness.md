@@ -8,7 +8,7 @@
 |------------|------|------|
 | Partner Opportunity Deck – Elevate security and compliance | Partner opportunity deck (PPT) | [Open asset](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FPartner-GTM%2FSell-Through-CSP%2FDefender%20Suite%20and%20Purview%20Suite%20-%20Partner%20Opportunity_v3.pptx) |
 | Security Business Case Builder (Business Premium scenarios) | Business case tool | [Open asset](https://bcb.transform.microsoft.com/) |
-| Security Partner Engagement Guide | Engagement guide (PDF) | [Open asset](Security-Partner-Engagement-Guide.pdf) |
+| Security Partner Engagement Guide | Engagement guide (PDF) | [Open asset](Security-Partner-Engagement-Guide.pdf](https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FSecurity-Partner-Engagement-Guide.pdf)) |
 
 ---
 
