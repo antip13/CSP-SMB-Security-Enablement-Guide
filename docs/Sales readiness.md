@@ -6,8 +6,8 @@
 
 | Asset title | Type | Source | Link |
 |------------|------|--------|------|
-| Partner Opportunity Deck – Elevate security and compliance | Partner opportunity deck (PPT) | Grow SMB Security | [Open asset](https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/) |
-| Security Business Case Builder (Business Premium scenarios) | Business case tool | Grow SMB Security | [Open asset](https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/) |
+| Partner Opportunity Deck – Elevate security and compliance | Partner opportunity deck (PPT) | Grow SMB Security | [Open asset]([https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FPartner-GTM%2FSell-Through-CSP%2FDefender%20Suite%20and%20Purview%20Suite%20-%20Partner%20Opportunity_v3.pptx)) |
+| Security Business Case Builder (Business Premium scenarios) | Business case tool | Grow SMB Security | [Open asset]([https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/](https://bcb.transform.microsoft.com/)) |
 | Executive Enablement Series (Sales Ready) | Sales enablement training | Skilling Hub | [View PDF](https://media.skilling-hub.com/main/pdf/0f5e4f62-d6ca-4a09-99d3-8e3e53c2a4f6/ms-partner-playbook-security.pdf) |
 
 ---
@@ -16,7 +16,7 @@
 
 | Asset title | Type | Source | Link |
 |------------|------|--------|------|
-| Customer readiness & opportunity identification (SMB insights) | Opportunity identification capability | Grow SMB Security | [Open asset](https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/) |
+| Customer readiness & opportunity identification (SMB insights) | Opportunity identification capability | Grow SMB Security | [Open asset]([https://microsoftpartners.microsoft.com/Microsoft-Security-Partners/Grow-SMB-Security/](https://media.skilling-hub.com/main/pdf/0f5e4f62-d6ca-4a09-99d3-8e3e53c2a4f6/ms-partner-playbook-security.pdf)) |
 | Tech Deal Ready – Threat Protection (guided discovery & objections) | Deal-ready sales training | Skilling Hub | [View PDF](https://media.skilling-hub.com/main/pdf/0f5e4f62-d6ca-4a09-99d3-8e3e53c2a4f6/ms-partner-playbook-security.pdf) |
 | Level Up CSP: Win with Microsoft Security | Sales & pre-sales training | Skilling Hub | [View PDF](https://media.skilling-hub.com/main/pdf/0f5e4f62-d6ca-4a09-99d3-8e3e53c2a4f6/ms-partner-playbook-security.pdf) |
 
