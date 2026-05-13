@@ -1,3 +1,13 @@
+.footer-hub-link {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,255,255,0.18);
+  transition: border-color 0.2s;
+}
+.footer-hub-link:hover {
+  border-color: #fff;
+}
 :root {
   --bg-a: #060a1a;
   --bg-b: #121d47;
