@@ -29,12 +29,4 @@ This guide is aligned to the Microsoft partner motion and uses the SMB security 
 - [Portal home](./index.html)
 - [Guide viewer](./guide.html)
 
-## Publish with GitHub Pages
-
-1. Open your GitHub repository settings.
-2. Go to Pages.
-3. Set Source to Deploy from a branch.
-4. Select branch `main` and folder `/ (root)`.
-5. Save and wait 1-2 minutes for publishing.
-
 
