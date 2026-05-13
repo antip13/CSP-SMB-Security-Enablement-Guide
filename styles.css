@@ -116,11 +116,12 @@ h3 {
 }
 
 h1 {
-  font-size: clamp(2rem, 5.3vw, 4rem);
-  line-height: 1.04;
-  letter-spacing: -0.02em;
-  margin: 14px auto 18px;
+  font-size: clamp(1.5rem, 3vw, 2.4rem);
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+  margin: 18px auto 18px;
   max-width: 740px;
+  text-align: center;
 }
 
 .hero-copy {
@@ -266,7 +267,21 @@ h1 {
   padding: 0 20px;
   color: #c8d3f3;
   font-size: 0.92rem;
-  text-align: center;
+}
+
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.footer-credit {
+  color: #b6c6e7;
+  font-size: 0.97em;
+  font-weight: 500;
+  text-align: right;
 }
 
 .reveal {
@@ -307,10 +322,20 @@ h1 {
   backdrop-filter: blur(6px);
 }
 
-.viewer-card h1,
-.viewer-card h2,
+.viewer-card h1 {
+  margin-top: 0.5em;
+  font-size: 2.1rem;
+  text-align: center;
+}
+.viewer-card h2 {
+  margin-top: 1.2em;
+  font-size: 1.4rem;
+  text-align: center;
+}
 .viewer-card h3 {
-  margin-top: 1.25em;
+  margin-top: 1.1em;
+  font-size: 1.1rem;
+  text-align: center;
 }
 
 .viewer-card table {
