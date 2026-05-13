@@ -19,4 +19,4 @@ Its purpose is to simplify customer conversations, standardise service delivery,
 - Phased Adoption, Risk Governance, and Service Discipline
 - DEFEND Readiness and Exit Criteria
 
-# Learning materails
+# Learning materials
