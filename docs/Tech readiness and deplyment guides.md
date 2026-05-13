@@ -1,22 +1,30 @@
-# Tech Readiness
+# SMB Security Tech Readiness — Deployment Guides
 
-## Deployment Guides 
+**Who is this for?**
+For CSP partners, solution engineers, and customer-facing teams preparing SMB security deployment conversations.
 
-### Click to download materials:
-- [Data Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FData%20Security%20Deployment%20Guide%20for%20Small%20Business.pptx)
+---
 
-- [Device Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FDevice%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf)
+## 1. Deployment guides
 
-- [Identity Protection Deployment Guide for Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FIdentity%20Protection%20Deployment%20Guide%20for%20Small%20Business.pdf)
+| Asset title | Type | Link |
+|------------|------|------|
+| Data Security Deployment Guide for Small Business | Deployment guide (PPT) | <a href="https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FData%20Security%20Deployment%20Guide%20for%20Small%20Business.pptx" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Device Security Deployment Guide for Small Business | Deployment guide (PDF) | <a href="https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FDevice%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Identity Protection Deployment Guide for Small Business | Deployment guide (PDF) | <a href="https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FIdentity%20Protection%20Deployment%20Guide%20for%20Small%20Business.pdf" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Email & App + Collaboration Protection Deployment Guide for Small Business | Deployment guide (PDF) | <a href="https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FEmail%2C%20App%20and%20Collaboration%20Protection%20Deployment%20Guide%20for%20Small%20Business.pdf" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| Device Management Deployment Guide for Small Business | Deployment guide (PDF) | <a href="https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FDevice%20Management%20Deployment%20Guide%20for%20Small%20Business.pdf" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| SaaS Security Deployment Guide for Small Business | Deployment guide (PDF) | <a href="https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FSaas%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf" target="_blank" rel="noopener noreferrer">Open asset</a> |
 
-- [Email & App + Collaboration Protection Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads?filename=Microsoft-Security-Partners%2FAssets%2FEmail%2C%20App%20and%20Collaboration%20Protection%20Deployment%20Guide%20for%20Small%20Business.pdf)
+---
 
-- [Device Management Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FDevice%20Management%20Deployment%20Guide%20for%20Small%20Business.pdf)
+## 2. Zero Trust assessment
 
-- [Saas Security Deployment Guide For Small Business](https://microsoftpartners.microsoft.com/Downloads/?filename=Microsoft-Security-Partners%2FAssets%2FSaas%20Security%20Deployment%20Guide%20for%20Small%20Business.pdf)
+| Asset title | Type | Link |
+|------------|------|------|
+| Microsoft Zero Trust Assessment Tool | Assessment tool | <a href="https://microsoft.github.io/zerotrustassessment/" target="_blank" rel="noopener noreferrer">Open asset</a> |
 
-- [Microsoft Zero Trust Assessment Tool](https://microsoft.github.io/zerotrustassessment/) 
-- The assessment produces a clear, prioritized report highlighting gaps, risk areas, and recommended actions aligned to Microsoft security best practice and Zero Trust principles. 
+> The assessment produces a clear, prioritized report highlighting gaps, risk areas, and recommended actions aligned to Microsoft security best practices and Zero Trust principles.
 
 
 
