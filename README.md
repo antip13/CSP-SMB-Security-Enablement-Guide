@@ -21,7 +21,20 @@ This guide is aligned to the Microsoft partner motion and uses the SMB security 
 
 - [Sales readiness](./docs/Sales%20readiness.md)
 - [Tech readiness and deployment guides](./docs/Tech%20readiness%20and%20deplyment%20guides.md)
-- [Partner Playbook and Learning materials](./docs/Partner%Playbook%and%Learning%materials.md)
+- [Partner Playbook and Learning materials](./docs/Partner%20Playbook%20and%20Learning%20materials.md)
 - [Available demos](./docs/Avaliable%20demos.md)
+
+## Website
+
+- [Portal home](./index.html)
+- [Guide viewer](./guide.html)
+
+## Publish with GitHub Pages
+
+1. Open your GitHub repository settings.
+2. Go to Pages.
+3. Set Source to Deploy from a branch.
+4. Select branch `main` and folder `/ (root)`.
+5. Save and wait 1-2 minutes for publishing.
 
 
