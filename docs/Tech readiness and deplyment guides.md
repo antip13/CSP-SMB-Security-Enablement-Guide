@@ -18,7 +18,17 @@ For CSP partners, solution engineers, and customer-facing teams preparing SMB se
 
 ---
 
-## 2. Zero Trust assessment
+## 2.  Microsoft Purview Information Protection [MIP] - Guided Labeling Assistant
+
+| Asset title | Type | Link |
+|------------|------|------|
+| Guided Labeling Assistant |  AssistantTool | <a href="https://aka.ms/MIP-Labeling-Assistant/" target="_blank" rel="noopener noreferrer">Open tool</a> |
+
+> Guides organizations through Microsoft Purview sensitivity label setup; from identifying the right labels for your industry, to classifying specific documents, and exporting audit-ready plans, with real-world examples for staff training.
+
+---
+
+## 3. Zero Trust assessment
 
 | Asset title | Type | Link |
 |------------|------|------|
