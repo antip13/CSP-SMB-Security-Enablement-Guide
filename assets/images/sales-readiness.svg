@@ -1,0 +1,21 @@
+<svg width="640" height="320" viewBox="0 0 640 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgSales" x1="0" y1="0" x2="640" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5E78E8"/>
+      <stop offset="1" stop-color="#3446A3"/>
+    </linearGradient>
+    <linearGradient id="barA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C9D7FF"/>
+      <stop offset="1" stop-color="#90ABFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="320" rx="22" fill="url(#bgSales)"/>
+  <circle cx="520" cy="72" r="54" fill="#7F98FA" fill-opacity="0.35"/>
+  <circle cx="128" cy="258" r="76" fill="#819AFF" fill-opacity="0.22"/>
+  <rect x="82" y="172" width="56" height="86" rx="8" fill="url(#barA)"/>
+  <rect x="158" y="140" width="56" height="118" rx="8" fill="url(#barA)"/>
+  <rect x="234" y="104" width="56" height="154" rx="8" fill="url(#barA)"/>
+  <path d="M94 112L178 88L252 94L342 54L400 74" stroke="#E7EEFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M384 56H418V90" stroke="#E7EEFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="82" y="70" fill="#F5F8FF" font-family="Outfit, Segoe UI, sans-serif" font-size="34" font-weight="700">Sales Narrative</text>
+</svg>
