@@ -18,13 +18,25 @@ For CSP partners, solution engineers, and customer-facing teams preparing SMB se
 
 ---
 
-## 2.  Microsoft Purview Information Protection [MIP] - Guided Labeling Assistant
+## 2.  Microsoft Purview Information Protection [MIP] - Asset for Partners
 
 | Asset title | Type | Link |
 |------------|------|------|
 | Guided Labeling Assistant |  AssistantTool | <a href="https://aka.ms/MIP-Labeling-Assistant/" target="_blank" rel="noopener noreferrer">Open tool</a> |
+| Industry One-Pagers | Asset Reference | <a href="https://aka.ms/MIP-Industry-OnePagers" target="_blank" rel="noopener noreferrer">Open asset</a> |
+| SOW Generator | Tool | <a href="https://aka.ms/SOW-Generator" target="_blank" rel="noopener noreferrer">Open tool</a> |
+| PowerShell Deployment Script | Deployment Script | <a href="https://aka.ms/Deploy-Scripts" target="_blank" rel="noopener noreferrer">Open tool</a> |
+| Quick Guide to GitHub Copilot CLI | Guide | <a href="https://aka.ms/Github-CopilotCli-Guide" target="_blank" rel="noopener noreferrer">Open guide</a> |
 
-> Guides organizations through Microsoft Purview sensitivity label setup; from identifying the right labels for your industry, to classifying specific documents, and exporting audit-ready plans, with real-world examples for staff training.
+> Guided Labeling Assistant: Guides organizations through Microsoft Purview sensitivity label setup; from identifying the right labels for your industry, to classifying specific documents, and exporting audit-ready plans, with real-world examples for staff training.
+>
+> Industry One-Pagers: Provides industry-specific MIP label recommendations for Healthcare, Financial Services, Legal, Education, and Retail.
+>
+> SOW Generator: Helps partners configure customer-specific settings and generate a ready-to-send SOW template.
+>
+> PowerShell Deployment Script: Automates MIP deployment in customer tenants, including sensitivity labels, DLP policies, retention, and tenant settings.
+>
+> Quick Guide to GitHub Copilot CLI: Helps partners set up Copilot CLI with the Microsoft Learn MCP Server so they can use natural language to find answers from official Microsoft docs on M365 licensing and compliance.
 
 ---
 
